@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Laskin laskin = new Laskin();
-        double etaisyys = laskin.laskeEtaisyys(2, 5, 7, 2);
-        System.out.println("Etäisyys: " + etaisyys);
+    Laskin1 laskin = new Laskin1();
+        System.out.println("Etaisyys: " + laskin.laskeEtaisyys(1,1,4,5));
     }
 }
