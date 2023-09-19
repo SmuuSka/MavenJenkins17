@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="004f7ca7-1a92-46fc-bee5-9373ae5b23c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,13 @@
     <option name="myCommands">
       <command value="mvn clean verify" />
       <command value="mvn clean test site" />
+      <command value="mvn jacoco:report" />
+      <command value="mvn test jacoco:report" />
       <command value="mvn clean verify site" />
+      <command value="mvn clean" />
+      <command value="mvn clean install -P test-coverage" />
+      <command value="mvn clean jacoco:prepare-agent install jacoco:report" />
+      <command value="mvn clean test" />
     </option>
   </component>
   <component name="RunManager" selected="JUnit.LaskinTestaus">
@@ -132,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695140342506</updated>
-      <workItem from="1695140343555" duration="9013000" />
+      <workItem from="1695140343555" duration="11272000" />
     </task>
     <servers />
   </component>
