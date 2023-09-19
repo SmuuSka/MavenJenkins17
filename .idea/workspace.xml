@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="004f7ca7-1a92-46fc-bee5-9373ae5b23c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Laskin1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LaskinTestaus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.40110394",
     "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
     "vue.rearranger.settings.migration": "true"
   }
@@ -72,11 +77,18 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Laskin1Test">
-    <configuration name="Laskin1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify" />
+      <command value="mvn clean verify site" />
+      <command value="mvn clean test site" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LaskinTestaus">
+    <configuration name="LaskinTestaus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MavenJenkins17" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Laskin1Test" />
+      <option name="MAIN_CLASS_NAME" value="LaskinTestaus" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,12 +118,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Laskin1Test" />
+      <item itemvalue="JUnit.LaskinTestaus" />
       <item itemvalue="Maven.MavenJenkins17" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Laskin1Test" />
+        <item itemvalue="JUnit.LaskinTestaus" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695140342506</updated>
-      <workItem from="1695140343555" duration="4981000" />
+      <workItem from="1695140343555" duration="8016000" />
     </task>
     <servers />
   </component>
