@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="004f7ca7-1a92-46fc-bee5-9373ae5b23c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Laskin1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Laskin1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Laskin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LaskinTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="004f7ca7-1a92-46fc-bee5-9373ae5b23c6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695140342506</updated>
-      <workItem from="1695140343555" duration="2277000" />
+      <workItem from="1695140343555" duration="2609000" />
     </task>
     <servers />
   </component>
